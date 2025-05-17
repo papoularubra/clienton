@@ -1,5 +1,8 @@
-ClienteOn: consumidores conectados e conscientes
-O agente desenvolvido realiza uma busca aprofundada sobre empresas a partir de seus nomes ou links, para ajudar consumidores em suas decisões.
+*ClienteOn: consumidores conectados e conscientes*
+
+Observação: Versão 1.1 amplia as informações utilizando o Google Places.
+
+O agente desenvolvido realiza uma busca aprofundada sobre empresas a partir do nome ou link do site, com o objetivo de ajudar consumidores em suas decisões.
 Embora a ferramenta seja voltada para consumidores, ela também pode auxiliar empresas a visualizar um panorama de sua reputação online.
 O agente foi instruído sobre aspectos de segurança de links, para evitar que pessoas cliquem em links fraudulentos ou façam transações em sites não confiáveis.
 A partir do nome ou do link da empresa, o agente retorna dados básicos sobre ela, como CNPJ, fundação, endereço e afins e também faz uma análise de avaliações,
